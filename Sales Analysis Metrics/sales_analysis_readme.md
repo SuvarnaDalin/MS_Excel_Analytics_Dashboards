@@ -1,14 +1,12 @@
 # Sales Analysis Metrics_Dashboard
 
-The Property Analysis dashboard is created to analyze the property distribution across US States, Renovation status, Property structure, age and other features related to real estate business.
+The Sales Analysis dashboard is created to analyze the sales performance of an educational trust with respect to attributes like advertisement channels, sales team, sales consultant, training levels, training models, area channel etc over the year, 2022.
 
-[US Property Analysis Power BI Report](https://rawcdn.githack.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/5aaf56b64c5fa132e952a755b38b537173fce05f/real_estate.html)
+[Sales Analysis Metrics Excel Sheet](https://github.com/SuvarnaDalin/MS_Excel_Analytics_Dashboards/blob/main/Sales%20Analysis%20Metrics/Sales_analysis_dataset.xlsx)
 
 The report is shown below:
 
-![alt text](https://github.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/blob/main/Overview.png)
+![alt text](https://github.com/SuvarnaDalin/MS_Excel_Analytics_Dashboards/blob/main/Sales%20Analysis%20Metrics/Sales_Analysis_Dashboard.png)
 
-
-![alt text](https://github.com/SuvarnaDalin/US-Property-Analysis-PowerBI_Dashboard/blob/main/Locations.png)
 
 
